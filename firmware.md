@@ -10,7 +10,6 @@
 
 ## ファームウェアを書き込む
 
-[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) を用意します。<br>　　
-
-[key_toys_73_default.hex]() を用意します。
+[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) を用意します。<br>
+[key_toys_73_default.hex]() を用意します。<br>
 
