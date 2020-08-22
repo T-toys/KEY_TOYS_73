@@ -4,8 +4,13 @@
 104キーボードからFキー・テンキー他を取って、row-staggeredから格子配列風に無理やり変更し、<br>
 隙間に余ったキーを入れ込んだレイアウトです。<br>
 左下の2キーには特に使い道がなくてスペースを割り当ててます。<br>
-レイヤーは2つで数字キー位置にFキーを割り当てています。
+2つ目のレイヤーの数字キー位置にFキーを割り当てています。
 
 <img width="1000" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/key_toys_73-keylayout.png">
 
-### キット付属部品
+## ファームウェアを書き込む
+
+QMK Toolbox
+
+https://github.com/T-toys/qmk_firmware-key_toys/blob/master/key_toys_73_default.hex
+
