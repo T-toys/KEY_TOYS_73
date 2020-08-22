@@ -13,3 +13,5 @@
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) を用意します。<br>
 [key_toys_73_default.hex](https://github.com/T-toys/qmk_firmware-key_toys) を用意します。<br>
 
+<img width="1000" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc1.png">
+
