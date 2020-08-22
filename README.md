@@ -1,5 +1,7 @@
 # KEY_TOYS_73
 
+<img width="2000" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_0752.jpg">
+
 ## コンセプト
 ### 経緯
 ALL1Uで格子配列のキーボードが好きで使ってるんですが、キーキャップの選択肢があまりにも少なくて面白くないので設計してみることにしました('ω')
