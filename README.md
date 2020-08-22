@@ -1,6 +1,6 @@
 # KEY_TOYS_73
 
-<img width="2000" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_0752-1.jpg">
+<img width="2000" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_0752-2.jpg">
 
 ## コンセプト
 ### 経緯
