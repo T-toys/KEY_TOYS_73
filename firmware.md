@@ -6,7 +6,7 @@
 左下の2キーには特に使い道がなくてスペースを割り当ててます。<br>
 2つ目のレイヤーの数字キー位置にFキーを割り当てています。
 
-<img width="1000" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/key_toys_73-keylayout.png">
+<img width="700" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/key_toys_73-keylayout.png">
 
 ## ファームウェアを書き込む
 
@@ -14,7 +14,7 @@
 [key_toys_73_default.hex](https://github.com/T-toys/qmk_firmware-key_toys) を用意します。<br>
 （Download ZIPでファイルをダウンロードして[key_toys_73_default.hex]を用意してください）
 
-<img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc1.png">
+<img width="700" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc1.png">
 
 QMK Toolboxでファームウェアを書き込みます。PCとプロマイクロをUSBケーブルで接続します。
 1. Local file に key_toys_73_default.hex を指定します。
