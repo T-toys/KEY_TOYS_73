@@ -16,3 +16,8 @@
 
 <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc1.png">
 
+QMK Toolboxでファームウェアを書き込みます。PCとプロマイクロをUSBケーブルで接続します。
+1. Local file に key_toys_73_default.hex を指定します。
+1. Microcontroller は atmega32u4 を指定します。
+1. AUto-Flash のチェックボックスに☑をします。
+
