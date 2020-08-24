@@ -86,9 +86,12 @@
  1-1. アウターの下から軸を入れます。(向きがあります)<br>
  1-2. 軸を上に持ち上げてワイヤーの先を軸に差し込みます。<br>
  1-3. ワイヤーをアウターのキャッチに固定します。<br>
+<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_164027-2.jpg"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_164211-2.jpg"><br>
+
 1. キャップのサイズが2U以上の箇所にスタビライザーを取り付けます。<br>
  2-1. PCB表面の大きい方の穴にホック側を差し込み、小さい方の穴にナット側を差し込みます。<br>
- 2-2. PCB裏面からネジで固定します。
+ 2-2. PCB裏面からネジで固定します。<br>
+     <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_171039-2.jpg">
 
 ### プレートの準備
 
