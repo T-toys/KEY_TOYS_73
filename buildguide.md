@@ -62,7 +62,7 @@
 1. 片側をハンダ付けします。この時にソケットが浮いていないか確認をします。<br>
 （浮いている場合はソケットを上から押さえ、仮付けしているハンダにコテを当てて修正します）<br>
 1. 反対側をハンダ付けします。<br>
-<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_162927.jpg">
+    <img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_162927.jpg">
 
 ### Pro Micro
 
