@@ -73,7 +73,7 @@
  1-2. USBコネクタがPCBの外側を向く位置にし、Pro Microのチップ部品のついている側からピンを差し込みます。<br>
 1. Pro Micro側のピンをハンダ付けします。<br>
 （PCB側のピンはハンダ付けしません）<br>
-<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163037-2.jpg"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163215-2.jpg">
+<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163037-2.jpg"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163150-2.jpg">
 
 ### リセットスイッチ
 
