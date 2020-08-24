@@ -23,6 +23,7 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 1. キーボードのリセットスイッチを押して書き込みます。<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc5.png"><br><br>
 **このような表示が出れば書き込み完了です('ω')**
 <br>
+***
 <br>
 <br>
 ***
