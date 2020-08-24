@@ -96,6 +96,7 @@
 ### プレートの準備
 
 1. トッププレート裏面に7.5mmスペーサーをネジで取り付けます。<br>
+    <img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_172513.jpg">
 
 ### キースイッチ
 
