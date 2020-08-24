@@ -26,7 +26,8 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 
 73キーをプロマイクロ1つで動かしているので、使用できるピンを全部使ています。<br>
 (Duplex-Matrixを使えばよかったんですが理解できていません)<br>
-なので9×9のマトリックスを作り、それぞれのキーに割り当てているためコードが変な感じになってます。
+9×9のマトリックスを作り、それぞれのキーに割り当てているためコードが変な感じになってます。<br>
+<img width="350" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc2.png"><img width="350" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc3.png">
 
 
 
