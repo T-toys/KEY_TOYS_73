@@ -28,5 +28,6 @@ ALL1Uで格子配列のキーボードが好きで使ってるんですが、キ
 ※予め、ビルドガイド等をご確認いただき、購入することをお勧めします。<br>
 
 
-https://github.com/T-toys/KEY_TOYS_73/blob/master/buildguide.md
+* [ビルドガイド](https://github.com/T-toys/KEY_TOYS_73/blob/master/buildguide.md)<br>
+* [ファームウェア](https://github.com/T-toys/KEY_TOYS_73/blob/master/firmware.md)
 
