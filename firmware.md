@@ -26,11 +26,11 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 <br>
 <br>
 
-## キーマップとマトリックスについて
+## キーマップとマトリクスについて
 
 73キーをプロマイクロ1つで動かしているので、使用できるピンを全部使ています。<br>
-(Duplex-Matrixを使えばよかったんですが理解できていません)<br>
-9×9のマトリックスを作り、それぞれのキーに割り当てているためコードが変な感じになってます。<br>
+(Duplex-Matrixを使えばよさそうなのですが、理解できていません)<br>
+9×9のマトリクスを作り、それぞれのキーを割り当てているためコードが変な感じになってます。<br>
 <img width="350" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc2.png"><img width="350" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc3.png"><br>
 <br>
 キーマップを変更する際は下の図を参照し、適宜変更下さい。<br>
