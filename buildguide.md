@@ -53,7 +53,8 @@
 1. ダイオードをPCBの取付位置に合わせ、ダイオードの足の上からコテを当てダイオード仮付けします。<br>
 （この工程で位置が決まりますのでダイオードが浮いていないか、反対側の足がパッドに乗っているか等の確認をします）<br>
 1. 反対側の足をハンダ付けします。<br>
-1. 予備ハンダした側を再ハンダし、本付けします。
+1. 予備ハンダした側を再ハンダし、本付けします。<br>
+<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_133109.jpg"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_134246.jpg">
 
 ### スイッチソケット
 
