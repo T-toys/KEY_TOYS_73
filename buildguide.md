@@ -102,21 +102,25 @@
 
 1. スイッチのピンが付いている方をトッププレート表面から差込み、スイッチをプレートに固定すます。<br>
 （ピンの位置はPCBのソケット位置に合わせます）<br>
-1. プレートに固定されたスイッチピンをPCBのソケットに差し込みます。
+1. プレートに固定されたスイッチピンをPCBのソケットに差し込みます。<br>
+<img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_225006-2.jpg"><img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_225106-2.jpg"><img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_225208-2.jpg"><br>
+
 
 ### プレート組
 
-1. 組上がったトッププレート&PCBにボトムプレートをネジで取り付けます。
+1. 組上がったトッププレート&PCBにボトムプレートをネジで取り付けます。<br>
+    <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_230501-2.jpg">
 
 ### その他
 
 1. キーキャップをスイッチに取り付ける。<br>
 2. ゴム脚をキーボード底面の縁に取り付ける。<br>
 3. お好みで、ボトムプレートのネジを15mmスペーサーに変更することでチルトさせることができます。<br>
+    <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_231423-2.jpg">
 <br>
 <br>
 
-完成です('ω')
+### 完成です('ω')
 
-
+    <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_232837-2.jpg">
 
