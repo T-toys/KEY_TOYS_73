@@ -77,7 +77,8 @@
 
 ### リセットスイッチ
 
-1. PCBの表面側からスイッチの足を差し込みハンダ付けします。
+1. PCBの表面側からスイッチの足を差し込みハンダ付けします。<br>
+    <img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163402-2.jpg">
 
 ### スタビライザー
 
