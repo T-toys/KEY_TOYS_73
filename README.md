@@ -27,3 +27,6 @@ ALL1Uで格子配列のキーボードが好きで使ってるんですが、キ
 ※ファームウェアを書き込む必要があります。<br>
 ※予め、ビルドガイド等をご確認いただき、購入することをお勧めします。<br>
 
+
+https://github.com/T-toys/KEY_TOYS_73/blob/master/buildguide.md
+
