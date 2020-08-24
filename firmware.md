@@ -30,6 +30,6 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 9×9のマトリックスを作り、それぞれのキーに割り当てているためコードが変な感じになってます。<br>
 <img width="350" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc2.png"><img width="350" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc3.png"><br>
 <br>
-キーマップを変更する際は下の図を参照し、適宜変更をお願いします。<br>
+キーマップを変更する際は下の図を参照し、適宜変更下さい。<br>
 <img width="700" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/key_toys_73-keylayout-2.png">
 
