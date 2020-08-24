@@ -20,8 +20,8 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 1. Local file に key_toys_73_default.hex を指定します。
 1. Microcontroller は atmega32u4 を指定します。
 1. AUto-Flash のチェックボックスに☑をします。<img width="700" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc7.png">
-1. キーボードのリセットスイッチを押して書き込みます。<img width="700" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc5.png"><br>
-このような表示が出れば書き込み完了です。
+1. キーボードのリセットスイッチを押して書き込みます。<img width="700" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc5.png"><br><br>
+**このような表示が出れば書き込み完了です。**
 
 ## キーマップとマトリックスについて
 
