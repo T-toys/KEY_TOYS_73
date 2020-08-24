@@ -68,11 +68,12 @@
 
 1. PCBとスプリングピンヘッダとPro Microを組込みます。<br>
  1-1. PCBの表面側からピンを差し込みます。スプリングピンヘッダは推奨の向きがあります。<br>
-　　樹脂部分の小さな穴を基準に、穴が無い方のピンがPCB側。穴が開いている方のピンがPro Micro側。<br>
+　　樹脂部分側面の小さな穴を基準に、穴が無い方のピンがPCB側。穴が開いている方のピンがPro Micro側。<br>
 　　また、2つのヘッダは穴が同じ方向を向くように取り付けます。<br>
  1-2. USBコネクタがPCBの外側を向く位置にし、Pro Microのチップ部品のついている側からピンを差し込みます。<br>
 1. Pro Micro側のピンをハンダ付けします。<br>
-（PCB側のピンはハンダ付けしません）
+（PCB側のピンはハンダ付けしません）<br>
+<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163037-2.jpg"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163215-2.jpg">
 
 ### リセットスイッチ
 
