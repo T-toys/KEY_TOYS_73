@@ -54,6 +54,7 @@
 （この工程で位置が決まりますのでダイオードが浮いていないか、反対側の足がパッドに乗っているか等の確認をします）<br>
 1. 反対側の足をハンダ付けします。<br>
 1. 予備ハンダした側を再ハンダし、本付けします。<br>
+（リードタイプを使用する場合はスペースキーのスタビライザーワイヤーと干渉する恐れがありますので加工が要する可能性がありますのでご注意ください）<br>
 <img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_133109.jpg"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_134246.jpg">
 
 ### スイッチソケット
