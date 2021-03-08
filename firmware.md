@@ -11,13 +11,13 @@
 ## ファームウェアを書き込む
 
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) を用意します。<br>
-[key_toys_73_default.hex](https://github.com/T-toys/qmk_firmware-key_toys) を用意します。<br>
-（Download ZIPでファイルをダウンロードして[key_toys_73_default.hex]を用意してください）
+[key_toys_73_via.hex](https://github.com/T-toys/qmk_firmware-key_toys) を用意します。<br>
+（Download ZIPでファイルをダウンロードして[key_toys_73_via.hex]を用意してください）
 
 <img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc1.png">
 
 QMK Toolboxでファームウェアを書き込みます。PCとプロマイクロをUSBケーブルで接続します。
-1. Local file に key_toys_73_default.hex を指定します。
+1. Local file に key_toys_73_via.hex を指定します。
 1. Microcontroller は atmega32u4 を指定します。
 1. Auto-Flash のチェックボックスに☑をします。<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc7.png"><br>
 1. キーボードのリセットスイッチを押して書き込みます。<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc5.png"><br><br>
