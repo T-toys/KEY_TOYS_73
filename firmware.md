@@ -28,11 +28,14 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 <br>
 ***
 
-## ≪キーマップとマトリクスについて≫
+## ≪キーマップの変更≫
 
-73キーをプロマイクロ1つで動かしているので、使用できるピンを全部使ています。<br>
-(Duplex-Matrixを使えばよさそうなのですが、理解できていません)<br>
-~~9×9のマトリクスを作り、それぞれのキーを割り当てているためコードが変な感じになってます。~~<br>
-keymap.cのコードを綺麗に整えることができました。<br>
-(綺麗に整えられたkey_toys_73.hとkeymap.cを@GooseSDWさんから提供していただきました。ありがとうございます！)
+[Remap](https://remap-keys.app/) というブラウザ上で簡単にキーマップが変更できるようになりました。(key_toys_73_via.hexを書き込んでいる場合)<br>
+1.　PCとプロマイクロをUSBケーブルで接続します。<br>
+1.　Google Chrome 及び Microsoft Edge で[Remap](https://remap-keys.app/) へアクセスします。<br>
+1.　START REMAP FOR YOUR KEYBOARD　をクリックします。<br>
+1.　+KEYBOARD　をクリックします。<br>
+1.　KEY_TOYS_73 を選択して「接続」をクリックします。<br>　
+1.　キーボードが表示されたら　
+
 
