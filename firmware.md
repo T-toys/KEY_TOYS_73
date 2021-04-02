@@ -37,6 +37,7 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 1. +KEYBOARD　をクリックします。<br>
 <img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/scre2.png"><br>
 1. KEY_TOYS_73 を選択して「接続」をクリックします。<br>　
+<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/scre3.png"><br>
 1. キーボードが表示されたら　
 
 
