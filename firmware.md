@@ -38,9 +38,10 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 <img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/scre2.png"><br>
 1. KEY_TOYS_73 を選択して「接続」をクリックします。<br>　
 <img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/scre3.png"><br>
-1. 上部にキーボードレイアウト、下部にキーが表示されます。
+1. 上部にキーボードレイアウト、下部にキーが表示されます。<br>
 変更したいキーを下部から選びドラッグして、上部キーボードのキーへドロップします。<br>
-キーの変更ができたら右上のflashをクリックするとキーマップの変更は完了です。
+キーの変更ができたら右上のflashをクリックするとキーマップの変更は完了です。<br>
+<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/scre4.png"><br>
 <br>
 ***
 <br>
