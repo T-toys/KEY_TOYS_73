@@ -34,7 +34,7 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 1. PCとプロマイクロをUSBケーブルで接続します。<br>
 1. Google Chrome 及び Microsoft Edge で[Remap](https://remap-keys.app/) へアクセスします。<br>
 1. START REMAP FOR YOUR KEYBOARD　をクリックします。<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/scre1.png"><br>
-1. +KEYBOARD　をクリックします。<br>
+1. +KEYBOARD　をクリックします。<img width="350" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/scre2.png"<br>
 1. KEY_TOYS_73 を選択して「接続」をクリックします。<br>　
 1. キーボードが表示されたら　
 
