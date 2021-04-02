@@ -33,7 +33,7 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 [Remap](https://remap-keys.app/) というブラウザ上で簡単にキーマップが変更できるようになりました。(key_toys_73_via.hexを書き込んでいる場合)<br>
 1. PCとプロマイクロをUSBケーブルで接続します。<br>
 1. Google Chrome 及び Microsoft Edge で[Remap](https://remap-keys.app/) へアクセスします。<br>
-1. START REMAP FOR YOUR KEYBOARD　をクリックします。<br>
+1. START REMAP FOR YOUR KEYBOARD　をクリックします。<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/scre1.png"><br>
 1. +KEYBOARD　をクリックします。<br>
 1. KEY_TOYS_73 を選択して「接続」をクリックします。<br>　
 1. キーボードが表示されたら　
